@@ -1,0 +1,20 @@
+STRINGS - parte 2
+-----------------------
+Propiedades
+ Caracteristicas de un elemento
+ - length (longitud)= regresa el numero de caracteres, espacios en blanco que tiene una variable/elemento/String
+
+ Uso es asi: string.length
+ 
+
+Metodos son acciones(Uso: string.metodo())
+trim() recorta espacios en blanco i) y f)
+toUpperCase()->a mayusculas
+toLowerCase() -> a minusculas
+concat() -> une strings 
+indexOf()
+lastIndexOf()
+substr()
+slice()
+split()
+replace()

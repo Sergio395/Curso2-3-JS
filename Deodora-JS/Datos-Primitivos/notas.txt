@@ -1,0 +1,21 @@
+Boolean - Valores-> true / false
+     Truthy & falsy (verdad y falsedad)
+  Truthy ->   - String no vacio
+            - Numero diferente de cero
+            - Array
+            - Objetos
+
+  Falsy ->    - 0
+            - String vacio
+            - NaN = Not a Number
+            - underfined
+            - Null
+
+underfined -> indefinido, variable declarada pero no inicializada (valor no existe)
+
+Null -> nulo, el elemento no existe(no hay variable y consecuentamente no hay valor) Ej console.log(nombre)
+
+Symbol -> Simbolo (emascript6=dato nuevo)
+
+
+String -> Cadena de caracteres(letras, numeros, espacios en blanco, simbolos) y estan rodeados de comillas simples '' o dobles "" o backticks ``(agrego html y texto)
